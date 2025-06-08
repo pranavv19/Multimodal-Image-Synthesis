@@ -1,6 +1,6 @@
-# Multimodal Image Generation
+# Multimodal Image Synthesis
 
-A simple PyTorch implementation of Multimodal Image Generation with both command-line and web interface.
+A simple PyTorch implementation of Multimodal Image Synthesis with both command-line and web interface.
 
 ## Setup
 
